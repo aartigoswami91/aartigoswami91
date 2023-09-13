@@ -2,7 +2,7 @@
 alt="Waving hand animated gif"
 height="50"
 width="55" /> I'm Aarti Goswami</h1>
-<h3 align="center">An Aspiring Data Scientist</h3>
+<h3 align="center">Python Developer</h3>
 <div id="header" align="center">
   <img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="Computer man" width="100"/>
 </div>
@@ -13,7 +13,7 @@ width="55" /> I'm Aarti Goswami</h1>
 
 # About Me 🚀
 
-- 🌱 I am a ***Data Science*** enthusiast. I have insights into ***Machine Learning, Deep Learning, Computer Vision and Natural Language Processing*** and I am extending myself towards ***Data Engineering, Cloud and MLOps*** to achieve a level of ***Full-Stack Data Science***.
+- 🌱 I am a ***Python Developer*** enthusiast. I have insights into ***Django, SQL, Machine Learning*** and I am extending myself towards ***Data Engineering, Cloud and MLOps*** to achieve a level of ***Full-Stack Data Science***.
 
 
 
